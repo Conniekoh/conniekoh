@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Connie Koh who has a strong passion in Data Science.
+A graduate student | strong passion in Data Science.
 
 
 <!--
