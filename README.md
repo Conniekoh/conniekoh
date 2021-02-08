@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A graduate student | strong passion in Data Science.
+A graduate student | strong passion in Data Analytics.
 
 
 <!--
