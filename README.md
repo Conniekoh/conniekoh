@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### A graduate student studying Applied Analytics at Columbia University | Deeply passionate about utilizing data analytical skills to drive business changess | Curious in finding new things/trends
+#### A graduate student studying Applied Analytics at Columbia University | Deeply passionate about utilizing data analytical skills to drive business changess | Curious in finding new things/trends
 
 
 <!--
