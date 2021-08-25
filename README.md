@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👩🏻‍🎓 Graduate student studying Applied Analytics at Columbia University 
-- 📊 Deeply passionate about utilizing data analytical skills to drive business changss
-- ❤️ Curious in finding new things/trends
+👩🏻‍🎓 I'm currently a graduate student studying Applied Analytics at Columbia University 
+📊 I'm deeply passionate about utilizing data analytical skills to drive business changss
+❤️ I'm curious in finding new things/trends
 
 
 <!--
